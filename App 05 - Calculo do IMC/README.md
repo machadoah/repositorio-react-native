@@ -5,11 +5,13 @@ Este é o repositório do Aplicativo 5, um aplicativo calcule o IMC do usuário,
 ## Instruções fornecidas
 
 ![Alt text](image.png)
-
+<!--
 Fórmula:
 $$
 IMC = \dfrac{peso}{altura^2}
 $$
+-->
+IMC = peso / (altura²)
 
 ## Mockup disponibilizado
 
